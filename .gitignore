@@ -1,0 +1,3 @@
+# Don't track thse
+node_modules/
+backend/config/keys.js
